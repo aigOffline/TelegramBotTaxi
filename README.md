@@ -1,5 +1,5 @@
 # TelegramBotTaxi
-<img src="https://user-images.githubusercontent.com/87446059/148723613-206ec111-006f-4efd-a173-bca447791785.jpg" alt="alt text" width="300" height="350">
+<img src="https://user-images.githubusercontent.com/87446059/148723613-206ec111-006f-4efd-a173-bca447791785.jpg" alt="Telegram Bot" width="300" height="350">
 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/87446059/148842911-429582bd-46a9-4c4e-9266-9a3531135755.jpg" width="200" />
